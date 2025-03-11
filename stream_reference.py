@@ -16,8 +16,6 @@ from sentence_transformers import SentenceTransformer, util
 from transformers import AutoModelForSequenceClassification, AutoTokenizer
 from catboost import CatBoostClassifier
 from tqdm import tqdm
-import time
-import nbimporter
 from fpdf import FPDF
 
 import re
