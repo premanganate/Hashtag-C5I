@@ -3,6 +3,7 @@ fpdf==1.7.2
 matplotlib==3.10.1
 nbimporter==0.3.4
 numpy>=1.16,<2.0
+openpyxl==3.1.5
 pandas==2.2.3
 Pillow==11.1.0
 plotly==6.0.0
